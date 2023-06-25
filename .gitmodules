@@ -1,0 +1,6 @@
+[submodule "TCS"]
+	path = TCS
+	url = https://github.com/SujathaVenkatesh/TCS.git
+[submodule "why"]
+	path = why
+	url = https://github.com/SujathaVenkatesh/why.git
